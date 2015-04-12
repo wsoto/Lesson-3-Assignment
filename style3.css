@@ -1,0 +1,25 @@
+body{
+	background color: #FF008D;
+}
+
+.main{
+	width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+	background-color: #FF008D;
+	display: block;
+	align: center;
+}
+
+div{
+	float: left;
+	margin: 20px 10px 20px 20px;
+}
+
+img{
+ 		position: relative;
+        width: 300px;
+        margin-left: 50px;
+        margin-right: 20px;
+
+}

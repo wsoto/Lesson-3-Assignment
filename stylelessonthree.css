@@ -1,0 +1,27 @@
+
+body{
+	background-color: #DDEBEE;
+}
+
+.main{
+	height: 600px;
+	width: 400px;
+	color:#C0C0C0;
+	float: left;
+}
+
+.sidebar{
+	height: 600px;
+	width: 150px;
+	color: #346699;
+	float: left;
+}
+
+p{
+	font-family: sans-serif;
+	line-height: 20px;
+}
+
+hr{
+	color: #003366;
+}
